@@ -1,4 +1,4 @@
-# Real_Estate_Price_Prediction
+# living Quaters price predictions
 
 *It is a living Quaters price predictions for customers who are in need to check the costs of flats for purchase and rents. It would help them in search of flats by bedrooms, bathrooms and square feets of a flat. Mostly, customers look for these basic requirements in search, by making that into account i made this project to make their work efficent.
 
